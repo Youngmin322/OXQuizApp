@@ -7,6 +7,7 @@
 
 import SwiftUI
 struct ContentView: View {
+    // 변수 선언
     @State var number1: Int = 4
     @State var number2: Int = 2
     @State var resultNumber: Int = 9
@@ -102,11 +103,13 @@ struct ContentView: View {
         }
     }
     
+    // 문제 카운팅 초기화 함수
     func reloadGame() {
         countCorrect = 0
         countWrong = 0
     }
     
+    // 정답 선택 함수
     func selectCorrect() {
         if number1 * number2 == resultNumber {
             countCorrect += 1
@@ -116,6 +119,7 @@ struct ContentView: View {
         generateNewProblem()
     }
     
+    // 오답 선택 함수
     func selectWrong() {
         if number1 * number2 != resultNumber {
             countCorrect += 1
@@ -125,6 +129,7 @@ struct ContentView: View {
         generateNewProblem()
     }
     
+    // 새로운 문제 생성 함수
     func generateNewProblem() {
         number1 = Int.random(in: 1...10)
         number2 = Int.random(in: 1...20)
