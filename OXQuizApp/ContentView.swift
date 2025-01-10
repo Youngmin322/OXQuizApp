@@ -8,9 +8,9 @@
 import SwiftUI
 struct ContentView: View {
     // 변수 선언
-    @State var number1: Int = 4
-    @State var number2: Int = 2
-    @State var resultNumber: Int = 9
+    @State var number1: Int = 0
+    @State var number2: Int = 0
+    @State var resultNumber: Int = 0
     
     @State var countCorrect: Int = 0
     @State var countWrong: Int = 0
