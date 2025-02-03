@@ -1,5 +1,7 @@
 # OXQuizApp
 > 간단 산수 OX 퀴즈 앱
+
+
 ![ezgif com-resize](https://github.com/user-attachments/assets/6c7c46bd-bf09-435a-8bec-9a59d8567d49)
 
 ## 사용 기술
