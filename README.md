@@ -2,7 +2,7 @@
 > 간단 산수 OX 퀴즈 앱
 
 <p align="center">
-  ![Uploading ezgif.com-video-to-gif-converter (1).gif…]()
+  ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/aab9b19d-6db1-4127-b5d9-60e6d149ffbb)
 </p>
 
 ## 사용 기술
