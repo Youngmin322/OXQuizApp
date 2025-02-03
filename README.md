@@ -1,9 +1,7 @@
 # OXQuizApp
 > 간단 산수 OX 퀴즈 앱
 
-<p align="center">
-  ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/aab9b19d-6db1-4127-b5d9-60e6d149ffbb)
-</p>
+  ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/ff42bab0-e41a-41c8-bf73-65c22659fa76)
 
 ## 사용 기술
 - Swift
